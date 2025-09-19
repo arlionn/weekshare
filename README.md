@@ -1,0 +1,2 @@
+# weekshare
+weekly seminar.
